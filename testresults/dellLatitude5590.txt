@@ -1,0 +1,20 @@
+Execute speedtest
+-----------------
+5B.txt
+  Box: 87.7544ms
+  FS:  5.3075942s
+5KB.txt
+  Box: 198.568ms
+  FS:  5.1989086s
+1MB.txt
+  Box: 39.3732561s
+  FS:  18.5544201s
+
+System information
+------------------
+Dell Latitude 5590
+Windows 10 Enterprise (Version 10.0.18363)
+Architecture:    x64
+Processor:       Intel Core i5-7300U CPU @ 2.60 GHZ, 2712 MHz, 2 Cores, 4 Threads
+Memory:          8 GB
+Disk:            Micron 1100 (Read 530 MB/s, Write 500 MB/s)
