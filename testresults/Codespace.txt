@@ -1,0 +1,35 @@
+Execute speedtest
+-----------------
+5B.txt
+  Box: 250.801322ms
+  FS:  201.235919ms
+5KB.txt
+  Box: 336.230099ms
+  FS:  227.203172ms
+1MB.txt
+  Box: 31.250069495s
+  FS:  10.727315206s
+
+System information
+------------------
+Kernel release:                  5.4.0-1055-azure
+Distibution:                     #57~18.04.1-Ubuntu
+Architecture:                    x86_64
+Memory:                          7961 MB
+CPU:
+----
+Address sizes:                   46 bits physical, 48 bits virtual
+CPU(s):                          4
+Thread(s) per core:              2
+Core(s) per socket:              2
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model name:                      Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
+CPU MHz:                         2593.907
+Virtualization:                  VT-x
+Hypervisor vendor:               Microsoft
+Virtualization type:             full
+L1 cache:                        64 KiB
+L2 cache:                        2 MiB
+L3 cache:                        35.8 MiB
+NUMA node0 CPU(s):               0-3
