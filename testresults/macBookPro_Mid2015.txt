@@ -1,0 +1,20 @@
+Execute speedtest
+-----------------
+5B.txt
+  Box: 61.465623ms
+  FS:  516.133345ms
+5KB.txt
+  Box: 120.841162ms
+  FS:  570.700422ms
+1MB.txt
+  Box: 18.342550866s
+  FS:  5.665088387s
+
+System information
+------------------
+MacBook Pro (Retina, 15', Mid 2015)
+macOS Big Sur (Version 11.5.1)
+
+Processor  2,8 GHz Quad-Core Intel Core i7
+Memor      16 GB 1600 MHz DDR3
+Graphics   Intel Iris Pro 1536 MB
