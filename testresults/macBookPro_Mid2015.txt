@@ -1,14 +1,35 @@
 Execute speedtest
 -----------------
-5B.txt
-  Box: 61.465623ms
-  FS:  516.133345ms
-5KB.txt
-  Box: 120.841162ms
-  FS:  570.700422ms
+50B.txt
+  Box: 60.798617ms
+  FS:  516.627583ms
+100B.txt
+  Box: 60.986983ms
+  FS:  521.423459ms
+200B.txt
+  Box: 62.6672ms
+  FS:  539.210091ms
+500B.txt
+  Box: 64.363971ms
+  FS:  507.123163ms
+1KB.txt
+  Box: 68.80772ms
+  FS:  524.214882ms
+50KB.txt
+  Box: 728.420831ms
+  FS:  957.943414ms
+100KB.txt
+  Box: 1.339927248s
+  FS:  1.220896967s
+200KB.txt
+  Box: 2.66026123s
+  FS:  1.791718283s
+500KB.txt
+  Box: 6.047194763s
+  FS:  3.348232277s
 1MB.txt
-  Box: 18.342550866s
-  FS:  5.665088387s
+  Box: 18.118308364s
+  FS:  6.332918553s
 
 System information
 ------------------
