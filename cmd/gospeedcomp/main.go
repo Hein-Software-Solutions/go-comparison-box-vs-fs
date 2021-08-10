@@ -19,7 +19,7 @@ func main() {
 	println("-------------")
 	extractFiles()
 
-	testFiles := []string{"5B.txt", "5KB.txt", "1MB.txt"}
+	testFiles := []string{"50B.txt", "100B.txt", "200B.txt", "500B.txt", "1KB.txt", "50KB.txt", "100KB.txt", "200KB.txt", "500KB.txt", "1MB.txt"}
 	iterations := 20000
 
 	println()
